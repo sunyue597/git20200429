@@ -2,6 +2,8 @@ package sunyue;
 
 public class Person implements ZhuLei{
 
+
+    //123
     private int id;
     private String name;
     public Person() {
