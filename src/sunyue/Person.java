@@ -1,7 +1,7 @@
 package sunyue;
 
 public class Person implements ZhuLei{
-
+//klkk
 
     //123
     private int id;
