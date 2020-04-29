@@ -13,6 +13,7 @@ public class Person implements ZhuLei{
     private Person(int id, String name) {
         this.id = id;
         this.name = name;
+
     }
 
     public int getId() {
